@@ -1,4 +1,5 @@
 package com.company;
 
-public class Extension {
+public abstract class Extension {
+    public abstract void run(int a[]);
 }
